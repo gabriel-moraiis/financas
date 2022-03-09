@@ -299,7 +299,7 @@ const App = {
 
 }
 
-App.init()
+App.init();
 
 
 
